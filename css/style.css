@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-menu{
+    padding: 15px;
+}
+
+.github-link{
+    font-family: 'Roboto Mono', monospace;
+    padding: 15px;
+}
+
+.hh{
+    font-family: 'Roboto Mono', monospace;
+    padding: 15px;
+}
+
+.portfolio-link{
+    font-family: 'Roboto Mono', monospace;
+    padding: 15px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    
+    font-family: 'Roboto Mono', monospace;
+}
+
+.footer-section{
+    display: flex;   
+}
+
+.tel-link{
+    padding: 15px;
+}
+
+.vk-link{
+    padding: 15px;
+}
